@@ -1,0 +1,88 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background:#d3cbd8;
+}
+
+header {
+    background-color: #4f2964;
+    height: 300px;
+    width: 100%;
+}
+
+.meio {
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 125px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.logo {
+    width: 15%;;
+    padding-left: 15px;
+    padding-top: 40px; 
+    float: left;
+}
+
+.face {
+    height: 50px;
+    float: right;
+}
+
+.insta {
+    height: 55px;
+    float: right;
+    padding-left: 70px;
+    padding-bottom: 200px;
+}
+
+h2 {
+    font-size: 70px;
+    text-align: center;
+    color: #111111;
+}
+
+h2 strong {
+    color: #4f2964;
+}
+
+p {
+    font-size: 25px;
+    text-align: left;
+    color: #111111;
+    margin-left: 25px;
+}
+
+.feed { 
+    width: 100%;
+    margin-top: 20px;
+}
+
+.produtos {
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+}
+
+.tenis {
+    width: 20%;
+    padding-left: 100px;
+}
